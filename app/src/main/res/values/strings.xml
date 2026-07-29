@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Volume Wake</string>
+    <string name="accessibility_service_description">
+        Volume down button diye screen wake korar jonno ei service ta key event catch kore.
+        Kono personal data access kore na, kew touch/screen content dekhena.
+    </string>
+</resources>
